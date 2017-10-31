@@ -1,0 +1,8 @@
+# Don't track compiled files
+.bin
+
+#Don't track mac file
+.DS_Store
+
+#Don't track mac/linux .inputrc files
+.inputrc
